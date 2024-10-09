@@ -1,0 +1,2 @@
+# Artcoin
+Artcoin information
